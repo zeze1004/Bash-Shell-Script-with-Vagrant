@@ -1,4 +1,1 @@
-# Bash-Shell-Script-with-Vagrant-
-Bash Shell Script 실습용 가상서버 구축 스크립트(nginx + mysql + nfs) 
-
-Bash Shell Script로 
+Bash Shell Script를 이용한 서버 장애 대응 실습 공부 기록 저장소😎
