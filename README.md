@@ -4,6 +4,10 @@
 아래와 같이 장애를 직접 구현하거나 가정하고 트러블슈팅 과정을 공부합니다👻👻👻
 
 
+[블로그로 우당탕탕 트러블슈팅 과정 더 자세히 보기](https://blog.naver.com/PostList.naver?blogId=thwjd2717&from=postList&categoryNo=55)
+
+
+
 ### 트러블슈팅 과정
 
 ##### 먼저 트러블슈팅을 위해 장애를 만들어보자!
