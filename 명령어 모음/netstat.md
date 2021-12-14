@@ -25,6 +25,10 @@ tcp6       0      0 :::80                   :::*                    LISTEN
 
 
 
+[출처](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ncloud24&logNo=221388026417)
+
+
+
 
 
 
