@@ -6,6 +6,8 @@
 
 [블로그로 우당탕탕 트러블슈팅 과정 더 자세히 보기](https://blog.naver.com/PostList.naver?blogId=thwjd2717&from=postList&categoryNo=55)
 
+[Bash Shell Script 시리즈]로 연재 중입니다^___^
+
 
 
 ### 트러블슈팅 과정
